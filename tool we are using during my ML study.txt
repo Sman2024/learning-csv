@@ -1,0 +1,13 @@
+tool we are using during my ML study
+1. Jupyter Notebook
+2. vscode
+3. Colab
+4. gitup
+5. hackerrank
+6. Kaggle
+7. khanacademy
+8. WampServer and phpMyAdmin for Database(SQL)
+9. Edube
+10. TeamViewer
+11. AnyDesk
+12. Weka
