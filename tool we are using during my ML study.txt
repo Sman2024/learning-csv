@@ -1,13 +1,18 @@
-tool we are using during my ML study
-1. Jupyter Notebook
-2. vscode
-3. Colab
-4. gitup
-5. hackerrank
-6. Kaggle
-7. khanacademy
-8. WampServer and phpMyAdmin for Database(SQL)
-9. Edube
-10. TeamViewer
-11. AnyDesk
-12. Weka
+  Tool we are using during my ML study
+1. Edube (We learned Python Essentials 1 & 2)
+2. PCED – Certified Entry-Level Data Analyst with Python
+     (2a) Pandas (2b) NumPy (2c) and visualization tools like Matplotlib and Seaborn
+3. Jupyter Notebook
+4. vscode
+5. Colab
+6. gitup
+7. hackerrank
+8. Kaggle
+9. khanacademy
+10. WampServer and phpMyAdmin for Database(SQL)
+11. Edube
+12. TeamViewer
+13. AnyDesk
+14. Weka
+15. Power BI
+16. Tableau
