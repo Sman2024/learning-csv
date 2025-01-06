@@ -1,4 +1,4 @@
-  Tool we are using during my ML study
+  Tools we are using during my ML study
 1. Edube (We learned Python Essentials 1 & 2)
 2. PCED – Certified Entry-Level Data Analyst with Python
      (2a) Pandas (2b) NumPy (2c) and visualization tools like Matplotlib and Seaborn
